@@ -1,0 +1,7 @@
+We are using Google's Gmail service to send mail. So we need some settings (if required) for google's security purposes. If those settings are not set up, then the following code may not work, if the google doesnot support the access from third-party app.
+
+To allow the access, we need to set 'Less Secure App Access' settings in the google account. If the two step verification is on, we cannot use the less secure access.
+
+https://myaccount.google.com/lesssecureapps 
+
+Then click on https://accounts.google.com/b/0/DisplayUnlockCaptcha to enable Display Unlock Captcha
