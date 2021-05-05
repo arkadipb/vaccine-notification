@@ -55,7 +55,7 @@ global body
 
 df_union=df_week_union=""
 
-for i in range(1):
+for i in range(10):
   try:
     df1,df1_week=fetch_sessions(i)
     
